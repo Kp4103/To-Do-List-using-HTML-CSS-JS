@@ -42,9 +42,9 @@ To run the application locally, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1]![image](https://github.com/Kp4103/To-Do-List-using-HTML-CSS-JS/assets/97142774/5baf7c48-3ef5-4b0b-a314-86b468f4a637)
+Before adding task: [image](https://github.com/Kp4103/To-Do-List-using-HTML-CSS-JS/assets/97142774/5baf7c48-3ef5-4b0b-a314-86b468f4a637)
 
-![Screenshot 2]![image](https://github.com/Kp4103/To-Do-List-using-HTML-CSS-JS/assets/97142774/01d58f0b-145f-452e-a489-104d0be7c652)
+After adding task: [image](https://github.com/Kp4103/To-Do-List-using-HTML-CSS-JS/assets/97142774/01d58f0b-145f-452e-a489-104d0be7c652)
 
 
 ## Contributing
@@ -61,4 +61,4 @@ Contributions are welcome! Please follow these guidelines:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##Happy Coding!!!
+## Happy Coding!!!
