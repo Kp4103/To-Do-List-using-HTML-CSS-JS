@@ -19,6 +19,10 @@ A simple to-do list application that allows users to manage their tasks efficien
 
 - **Delete Tasks:** Remove tasks that are no longer needed.
 
+- **Add due dates:** Add due dates to the tasks when required.
+
+- **Add reminders:** Add reminders to the tasks.
+
 ## Getting Started
 
 To run the application locally, follow these steps:
@@ -41,9 +45,9 @@ To run the application locally, follow these steps:
 
 ## Screenshots
 
-![Before adding task:] [image](https://github.com/Kp4103/To-Do-List-using-HTML-CSS-JS/assets/97142774/5baf7c48-3ef5-4b0b-a314-86b468f4a637)
+### Before adding task: ![image](https://github.com/Kp4103/To-Do-List-using-HTML-CSS-JS/assets/97142774/5baf7c48-3ef5-4b0b-a314-86b468f4a637)
 
-![After adding task:] [image](https://github.com/Kp4103/To-Do-List-using-HTML-CSS-JS/assets/97142774/01d58f0b-145f-452e-a489-104d0be7c652)
+### After adding task: ![image](https://github.com/Kp4103/To-Do-List-using-HTML-CSS-JS/assets/97142774/01d58f0b-145f-452e-a489-104d0be7c652)
 
 
 ## Contributing
