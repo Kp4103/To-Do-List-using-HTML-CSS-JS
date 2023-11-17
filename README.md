@@ -10,7 +10,6 @@ A simple to-do list application that allows users to manage their tasks efficien
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
