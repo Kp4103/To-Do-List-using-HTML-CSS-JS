@@ -1,0 +1,109 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: bisque;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.todo {
+    max-width: 400px;
+    padding: 30px;
+    background-color: palevioletred;
+    box-shadow: 0 20px 15px burlywood;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+#inputtxt,
+#prioritySelect,
+#dueDate,
+#reminderTime,
+#add {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+#prioritySelect,
+#dueDate,
+#reminderTime {
+    margin-bottom: 10px;
+}
+
+#prioritySelect,
+#dueDate,
+#reminderTime,
+#add {
+    display: block;
+}
+
+#dueDate,
+#reminderTime {
+    display: none;
+}
+
+#dueDateLabel,
+#reminderTimeLabel {
+    visibility: hidden;
+}
+
+.task-container {
+    max-width: 400px;
+    background-color: palegreen;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 20px 15px burlywood;
+    margin-left: 20px;
+    clear: both;
+    display: block;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.priority {
+    margin-right: 10px;
+}
+
+.due-date,
+.reminder {
+    margin-right: 10px;
+    color: #6c757d;
+}
+
+.text {
+    flex-grow: 1;
+}
+
+.deleteBtn {
+    margin-left: 10px;
+    padding: 4px 8px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.updateBtn {
+    margin-left: 10px;
+    padding: 4px 8px;
+    background-color: #7b35dc;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+    <div class="todo">
+        <input type="text" id="inputtxt" placeholder="Enter Task">
+        
+        <label for="prioritySelect">Priority:</label>
+        <select id="prioritySelect">
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+        </select>
+
+        <label for="includeDates">Include Reminders and Due Dates:</label>
+        <input type="checkbox" id="includeDates">
+
+
+        <label id="dueDateLabel" for="dueDate">Due Date:</label>
+        <input type="date" id="dueDate">
+
+        <label id="reminderTimeLabel" for="reminderTime">Reminder Time:</label>
+        <input type="time" id="reminderTime">
+
+        <button id="add">Add task</button>
+    </div>
+
+    <div class="task-container">
+        <p>Tasks: </p>
+        <ul id="task"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
