@@ -30,7 +30,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://github.com/Kp4103/To-Do-List-using-HTML-CSS-JS
    ```
 
 2. Open `index.html` in your preferred web browser.
